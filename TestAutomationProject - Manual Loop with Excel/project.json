@@ -4,7 +4,6 @@
   "description": "Test Automation Project - Manual Loop with Excel",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.DataService.Activities": "[24.7.1]",
     "UiPath.Excel.Activities": "[2.24.3]",
     "UiPath.System.Activities": "[24.10.6]",
     "UiPath.Testing.Activities": "[24.10.3]",
